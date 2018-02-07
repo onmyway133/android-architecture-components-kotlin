@@ -1,4 +1,4 @@
-package com.onmyway133.basicsample.ui
+package com.onmyway133.basicsample.main.ui
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
